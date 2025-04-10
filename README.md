@@ -24,10 +24,9 @@ The script automatically filters out common directories (like `.git`, `node_modu
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/codebase-flattener.git
+    git clone https://github.com/technotastic/codebase-flattener.git
     cd codebase-flattener
     ```
-    (Replace `your-username/codebase-flattener.git` with your actual repository URL)
 
 2.  **Make the script executable:**
     ```bash
