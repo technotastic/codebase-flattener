@@ -35,6 +35,8 @@ EXCLUDED_FILES=(
     poetry.lock
     .DS_Store
     Thumbs.db
+    .gitignore
+    tsconfig.node.tsbuildinfo
 )
 
 # File extensions to ignore (case-insensitive)
